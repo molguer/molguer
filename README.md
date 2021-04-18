@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @molguer
 - 👀 I’m interested in web dev.
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning freameworks such as Laravel, React and Angular.
 - 📫 How to reach me mike@molguer.com
 
 <!---
