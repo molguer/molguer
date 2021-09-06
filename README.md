@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @molguer
-- 👀 I’m interested in web dev.
-- 🌱 I’m currently learning freameworks such as Laravel, React and Angular.
-- 📫 How to reach me molguer.com
+- 👋 Hello!, I’m Mike
+- 👀 I’m interested in WebDev, IT, Servers... the list goes on
+- 📫 How to reach me <a href="https://molguer.com">molguer.com</a>
 
 <!---
 molguer/molguer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
